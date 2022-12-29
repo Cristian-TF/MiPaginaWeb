@@ -1,2 +1,2 @@
 # MiPaginaWeb
-Proyecto en React Cristian Tores
+Proyecto en React Cristian Torres
